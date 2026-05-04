@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> روحي تنادي لك بلا دليل
+> حبك في قلبي ماله مثيل
+> أنت حياتي وأنت السبيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
