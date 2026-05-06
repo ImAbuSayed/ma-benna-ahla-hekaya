@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ma Benna Ahla Hekaya |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-benna-ahla-hekaya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Ma Benna Ahla Hekaya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
