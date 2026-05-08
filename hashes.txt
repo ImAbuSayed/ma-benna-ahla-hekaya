@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Benna Ahla Hekaya
+
+This log tracks the cryptographic history and versioning for the song **Ma Benna Ahla Hekaya** (ma-benna-ahla-hekaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:57:11.578843 | `v1` | `34f1be4ec1ae4cfe6642649da2d45f87b9dba772ec470faaa600c1954971e89e` | `8b0b1e3a5cd1c2fd56bbacc8f93ac2c19ac669806e0da1bb727e40e7fbdb4c7f` | `2026-05-08_ma-benna-ahla-hekaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
